@@ -1,0 +1,112 @@
+*{ 
+    box-sizing: border-box; 
+    margin: 0%; 
+    padding: 0%; 
+} 
+
+body {
+    background-color: #030027;
+    color: #fff;
+}
+
+/* Additional styles for the specified part */
+.row {
+    background-color: #030027;
+    color: #fff;
+    padding: 20px; /* Adjust padding as needed */
+    margin-top: 20px; /* Adjust margin as needed */
+    border-radius: 10px; /* Optional: Add rounded corners */
+}
+
+.form-control {
+    background-color: #030027; /* Set background color for input */
+    color: #fff; /* Set text color for input */
+}
+
+.form-check-input:checked {
+    background-color: #00C892; /* Set background color for checked radio button */
+}
+
+.btn-primary {
+    background-color: #00C892;
+    color: #fff;
+    border: none;
+    width: 100%;
+}
+
+.btn-primary:hover {
+    background-color: #002D51; /* Optional: Add hover effect */
+}
+
+header, form, main{ 
+    margin: auto; 
+    width: 70%; 
+    font-family: Helvetica; 
+    padding: 1.1rem 1.2rem;
+} 
+
+header.text-center {
+    text-align: center;
+}
+
+
+header > h1{ 
+    font-size: 2.5rem; 
+    margin-bottom: 20px; 
+} 
+
+header > p{ 
+    color: gray; 
+    font-size: 1.2rem; 
+} 
+
+form{ 
+    background-color: #030027; 
+} 
+
+input{ 
+    margin: 10px 0; 
+} 
+
+input[type='submit'], input[type='file']{ 
+    font-size: 1.2rem; 
+} 
+
+input:hover{ 
+    cursor: pointer; 
+} 
+
+input[type='submit']{ 
+    padding: 0.5rem 0.8rem; 
+    border: 2px solid #003333; 
+    background-color: #003333; 
+    color: white; 
+    border-radius: 4px; 
+} 
+
+main{ 
+    padding: 0; 
+} 
+
+.pair{ 
+    width: 100%; 
+    display: flex; 
+    margin: auto; 
+    align-items: center; 
+} 
+.pair > .color-box{ 
+    width: 50%; 
+    height: 50px; 
+    border: 1px solid black; 
+    text-align: center; 
+    padding: 1.1%; 
+    margin: 0; 
+} 
+.pair > .color-box-value{ 
+    width: 50%; 
+    height: 50px; 
+    border: 1px solid black; 
+    text-align: center; 
+    padding: 1.1%; 
+    margin: 0; 
+}
