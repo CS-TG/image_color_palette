@@ -16,8 +16,9 @@ ImageColorize is a simple and stylish web application that allows you to extract
 
 ## Screenshots
 
-![App Screenshot 1](screenshots/screenshot1.png)
-![App Screenshot 2](screenshots/screenshot2.png)
+![App Screenshot 1](screenshots/imagecolorize.png)
+![App Screenshot 2](screenshots/imagecolorize_success.png)
+![App Screenshot 2](screenshots/imagecolorize_error.png)
 
 ## Demo
 
