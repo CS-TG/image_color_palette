@@ -26,7 +26,7 @@ ImageColorize is a simple and stylish web application that allows you to extract
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ImageColorize.git
+   git clone https://github.com/CS-TG/image_color_palette
 
 2. Install the required packages:
     pip install -r requirements.txt
