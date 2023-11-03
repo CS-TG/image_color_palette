@@ -20,9 +20,7 @@ ImageColorize is a simple and stylish web application that allows you to extract
 ![App Screenshot 2](screenshots/imagecolorize_success.png)
 ![App Screenshot 2](screenshots/imagecolorize_error.png)
 
-## Demo
 
-[View the live demo](https://your-demo-url.com)
 
 ## Installation
 
@@ -60,4 +58,4 @@ Contributions are welcome!
 
 ## Contact 
 Tshwarelo Matinketja
-Project Link: https://github.com/yourusername/ImageColorize
+Project Link: https://github.com/CS-TG/image_color_palette
